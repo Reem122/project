@@ -64,9 +64,7 @@ nav{
     z-index: 11;
     border-bottom: 2px solid rgba(73, 73, 73, 0.7);
 }
-.container{
-    width: 90%;
-}
+
 .bi-list{
     font-size: 40px;
     color: white;
@@ -307,6 +305,9 @@ h6{
     color: rgb(125, 125, 125);
 }
 /* services */
+.container{
+    width: 90%;
+}
 .logo{
     background: #54595f;
     display: flex;
